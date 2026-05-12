@@ -1,6 +1,6 @@
 ﻿define({ entries : {
     "Bai2018CNN": {
-        "author": "Bai, Lin and Zhao, Yongan and Huang, Xin",
+        "author": "Lin Bai and Yongan Zhao and Xin Huang",
         "doi": "10.1109/TCSII.2018.2865896",
         "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
         "keywords": "category:unified_fpga, focus:dsc_acceleration",
@@ -12,7 +12,7 @@
         "year": "2018"
     },
     "Howard2019Searching": {
-        "author": "Howard, Andrew and Sandler, Mark and Chen, Bo and Wang, Weijun and Chen, Liang-Chieh and Tan, Mingxing and Chu, Grace and Vasudevan, Vijay and Zhu, Yukun and Pang, Ruoming and Adam, Hartwig and Le, Quoc",
+        "author": "Andrew Howard and Mark Sandler and Bo Chen and Weijun Wang and Liang-Chieh Chen and Mingxing Tan and Grace Chu and Vijay Vasudevan and Yukun Zhu and Ruoming Pang and Hartwig Adam and Quoc Le",
         "booktitle": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
         "doi": "10.1109/ICCV.2019.00140",
         "keywords": "category:backbone, focus:nas, focus:efficiency",
@@ -22,7 +22,7 @@
         "year": "2019"
     },
     "Jacob2018Quantization": {
-        "author": "Jacob, Benoit and Kligys, Skirmantas and Chen, Bo and Zhu, Menglong and Tang, Matthew and Howard, Andrew and Adam, Hartwig and Kalenichenko, Dmitry",
+        "author": "Benoit Jacob and Skirmantas Kligys and Bo Chen and Menglong Zhu and Matthew Tang and Andrew Howard and Hartwig Adam and Dmitry Kalenichenko",
         "booktitle": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
         "doi": "10.1109/CVPR.2018.00286",
         "keywords": "category:quantization, focus:integer_inference",
@@ -32,7 +32,7 @@
         "year": "2018"
     },
     "Jiang2023HighThroughput": {
-        "author": "Jiang, Weixiong and Yu, Heng and Ha, Yajun",
+        "author": "Weixiong Jiang and Heng Yu and Yajun Ha",
         "doi": "10.1109/TCAD.2022.3198246",
         "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
         "keywords": "category:streaming_fpga, category:quantization, focus:full_dataflow, focus:w8a8",
@@ -44,7 +44,7 @@
         "year": "2023"
     },
     "Knapheide2020High": {
-        "author": "Knapheide, Jan and Stabernack, Benedikt and Kuhnke, Matthias",
+        "author": "Jan Knapheide and Benedikt Stabernack and Matthias Kuhnke",
         "booktitle": "2020 30th International Conference on Field-Programmable Logic and Applications (FPL)",
         "doi": "10.1109/FPL50879.2020.00053",
         "keywords": "category:streaming_fpga, focus:dsc_acceleration",
@@ -54,7 +54,7 @@
         "year": "2020"
     },
     "Lin2023MobileNets": {
-        "author": "Lin, Yuhan and Zhang, Yulong and Yang, Xiaokang",
+        "author": "Yuhan Lin and Yulong Zhang and Xiaokang Yang",
         "doi": "10.3390/bioengineering10010028",
         "journal": "Bioengineering",
         "keywords": "category:streaming_fpga, focus:dsc_acceleration",
@@ -66,7 +66,7 @@
         "year": "2023"
     },
     "Liu2019FPGA": {
-        "author": "Liu, Bing and Zou, Danyang and Feng, Lvying and Feng, Shuang and Fu, Ping and Li, Jianbo",
+        "author": "Bing Liu and Danyang Zou and Lvying Feng and Shuang Feng and Ping Fu and Jianbo Li",
         "doi": "10.3390/electronics8030281",
         "journal": "Electronics",
         "keywords": "category:unified_fpga, focus:dsc_acceleration",
@@ -78,7 +78,7 @@
         "year": "2019"
     },
     "Liu2024FPGA": {
-        "author": "Liu, Zhengyan and Liu, Qiang and Yan, Shun and Cheung, Ray C. C.",
+        "author": "Zhengyan Liu and Qiang Liu and Shun Yan and Ray C. C. Cheung",
         "doi": "10.1145/3615661",
         "journal": "ACM Transactions on Reconfigurable Technology and Systems",
         "keywords": "category:streaming_fpga, focus:dsc_acceleration",
@@ -90,7 +90,7 @@
         "year": "2024"
     },
     "Ma2018ShuffleNetV2": {
-        "author": "Ma, Ningning and Zhang, Xiangyu and Zheng, Hai-Tao and Sun, Jian",
+        "author": "Ningning Ma and Xiangyu Zhang and Hai-Tao Zheng and Jian Sun",
         "booktitle": "Computer Vision -- ECCV 2018",
         "doi": "10.1007/978-3-030-01264-9_8",
         "keywords": "category:backbone, focus:efficiency",
@@ -100,7 +100,7 @@
         "year": "2018"
     },
     "Nagel2019DataFree": {
-        "author": "Nagel, Markus and van Baalen, Mart and Blankevoort, Tijmen and Welling, Max",
+        "author": "Markus Nagel and Mart van Baalen and Tijmen Blankevoort and Max Welling",
         "booktitle": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
         "doi": "10.1109/ICCV.2019.00141",
         "keywords": "category:quantization, focus:post_training",
@@ -110,7 +110,7 @@
         "year": "2019"
     },
     "Sandler2018MobileNetV2": {
-        "author": "Sandler, Mark and Howard, Andrew and Zhu, Menglong and Zhmoginov, Andrey and Chen, Liang-Chieh",
+        "author": "Mark Sandler and Andrew Howard and Menglong Zhu and Andrey Zhmoginov and Liang-Chieh Chen",
         "booktitle": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
         "doi": "10.1109/CVPR.2018.00474",
         "keywords": "category:backbone, focus:efficiency",
@@ -120,7 +120,7 @@
         "year": "2018"
     },
     "Wang2019HAQ": {
-        "author": "Wang, Kuan and Liu, Zhijian and Lin, Yujun and Lin, Ji and Han, Song",
+        "author": "Kuan Wang and Zhijian Liu and Yujun Lin and Ji Lin and Song Han",
         "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
         "doi": "10.1109/CVPR.2019.00881",
         "keywords": "category:quantization, focus:mixed_precision, focus:hardware_aware",
@@ -130,7 +130,7 @@
         "year": "2019"
     },
     "Wu2019HighPerformance": {
-        "author": "Wu, Dong and Zhang, Yi and Jia, Xian and Tian, Lei and Li, Tao and Sui, Lifeng and Xie, Dong and Shan, Yihui",
+        "author": "Dong Wu and Yi Zhang and Xian Jia and Lei Tian and Tao Li and Lifeng Sui and Dong Xie and Yihui Shan",
         "booktitle": "2019 29th International Conference on Field Programmable Logic and Applications (FPL)",
         "doi": "10.1109/FPL.2019.00030",
         "keywords": "category:streaming_fpga, focus:dsc_acceleration",
@@ -140,7 +140,7 @@
         "year": "2019"
     },
     "Wu2021Survey": {
-        "author": "Wu, Rui and Guo, Xin and Du, Jian and Li, Jun",
+        "author": "Rui Wu and Xin Guo and Jian Du and Jun Li",
         "doi": "10.3390/electronics10091025",
         "journal": "Electronics",
         "keywords": "category:survey, focus:fpga_survey",
@@ -152,7 +152,7 @@
         "year": "2021"
     },
     "Yu2020LightOPU": {
-        "author": "Yu, Yifan and Zhao, Ting and Wang, Kaiyuan and He, Lei",
+        "author": "Yifan Yu and Ting Zhao and Kaiyuan Wang and Lei He",
         "booktitle": "Proceedings of the 2020 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)",
         "doi": "10.1145/3373087.3375311",
         "keywords": "category:unified_fpga, focus:overlay",
